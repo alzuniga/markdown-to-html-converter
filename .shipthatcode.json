@@ -1,0 +1,70 @@
+{
+  "course": "build-markdown-parser",
+  "language": "c",
+  "language_id": 50,
+  "entrypoint": "main.c",
+  "version": 1,
+  "content_hash": "8b41e4a907ed71b3",
+  "lessons": [
+    {
+      "slug": "headings",
+      "tests_hash": "ff619b77fa8d"
+    },
+    {
+      "slug": "paragraphs",
+      "tests_hash": "bf7c85110e2e"
+    },
+    {
+      "slug": "setext-headings",
+      "tests_hash": "cba76740d3f4"
+    },
+    {
+      "slug": "emphasis",
+      "tests_hash": "2833d5b8de25"
+    },
+    {
+      "slug": "links",
+      "tests_hash": "81b2f68f5105"
+    },
+    {
+      "slug": "reference-style-links",
+      "tests_hash": "1bf4c8042977"
+    },
+    {
+      "slug": "lists",
+      "tests_hash": "9ac191d642ed"
+    },
+    {
+      "slug": "code",
+      "tests_hash": "bf1d0d39e7ba"
+    },
+    {
+      "slug": "blockquotes",
+      "tests_hash": "cd43dbc4b63d"
+    },
+    {
+      "slug": "tight-vs-loose-lists",
+      "tests_hash": "508280f6514c"
+    },
+    {
+      "slug": "html-escape",
+      "tests_hash": "edbb60cb0a93"
+    },
+    {
+      "slug": "extensions",
+      "tests_hash": "25f494b2d20b"
+    },
+    {
+      "slug": "full-md",
+      "tests_hash": "b7a8ad098f2e"
+    },
+    {
+      "slug": "gfm-tables",
+      "tests_hash": "a2e5da8a0922"
+    },
+    {
+      "slug": "two-phase-parser-architecture",
+      "tests_hash": "4973eda1498c"
+    }
+  ]
+}
